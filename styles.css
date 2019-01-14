@@ -1,0 +1,146 @@
+.test {
+ 
+    color: purple;
+    font-family: Georgia;
+    text-align: center;
+}
+body {
+    
+  border: 10px solid green;
+  background-color: bisque;
+  width:fit-content;
+  margin: 300px;
+  
+  }
+  table, th, td {
+    border: 1px solid black;
+    margin-top: 50px;
+    text-align: right;
+  }
+  li{
+      list-style-type: square;
+      
+  }
+  
+  footer{
+      text-align: center;
+  }
+
+  .first  {
+
+       padding: 0px;
+       
+       text-align: left;
+       font-size: 20px;
+       font-family: Times New Roman;
+       margin-top: 50px
+
+    }
+
+    .test4{
+        padding: 0px;
+        
+        text-align: left;
+        font-size: 20px;
+        font-weight: bolder;
+        font-family: Times New Roman;
+        margin-top: 50px
+    }
+    .test1  {
+
+        padding: 0px;
+        
+        text-align: left;
+        font-size: 20px;
+        font-family: Times New Roman;
+        margin-top: 50px
+ 
+     }
+
+     .test2  {
+
+        padding: 0px;
+        
+        text-align: left;
+        font-size: 20px;
+        font-family: Times New Roman;
+        margin-top: 50px
+ 
+     }
+     .sec  {
+
+        padding: 10px;
+        
+        text-align: left;
+        font-size: 20px;
+        font-family: Times New Roman;
+        
+ 
+     }
+     .sec2  {
+
+        padding: 10px;
+        
+        text-align: left;
+        font-size: 20px;
+        font-family: Times New Roman;
+        margin-top: 50px
+ 
+     }
+    
+    
+  h1 {
+      text-align: center;
+  }
+  
+  .image1 {
+    display: ;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+  }
+  .image {
+    display: ;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+  }
+  #A2 {
+
+  margin-top: 100px;
+  
+    
+  }
+  h2 {
+      margin-top:60px;
+      color:purple;
+  }
+  h5 {
+      font-weight:bolder;
+      font-size: 20px;
+      color: red;
+  }
+  .sun {
+    padding: 10px;
+    
+    text-align: left;
+    font-size: 20px;
+    font-family: Times New Roman;
+    
+}
+.sun1 {
+    padding: 10px;
+    
+    text-align: left;
+    font-size: 20px;
+    font-family: Times New Roman;
+    
+}
+.sun2 {
+    padding: 10px;
+    
+    text-align: left;
+    font-size: 20px;
+    font-family: Times New Roman;
+    
+}
